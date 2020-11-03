@@ -1,5 +1,7 @@
 ![alt text](https://github.com/davedavis/davedavis/blob/main/logo.png "Dave Davis")
 
+<img align="center" src="https://github.com/davedavis/davedavis/blob/main/logo.png" alt="Dave Davis">
+
 
 ### Hi there 👋
 
