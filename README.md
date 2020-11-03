@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning : PostGrad (HDip) in software engineering (Python and Andorid).
 - 👯 I’m looking to collaborate on : Open Source martech projects, particularly Google Ads or Adobe.io related.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] or even on [![Stackoverflow][3.2][3]
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] or even on [![Stackoverflow][3.2]] [3]
 
 <!-- Icons -->
 
