@@ -1,8 +1,5 @@
-![alt text](https://github.com/davedavis/davedavis/blob/main/logo.png "Dave Davis")
-
-
 <p align="center">
-  <img src="https://github.com/davedavis/davedavis/blob/main/logo.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/davedavis/davedavis/blob/main/logo.png" alt="Dave Davis"/>
 </p>
 
 
