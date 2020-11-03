@@ -1,3 +1,6 @@
+![alt text](https://github.com/davedavis/davedavis/blob/main/dave20.png "Dave Davis")
+
+
 ### Hi there 👋
 
 <!--
