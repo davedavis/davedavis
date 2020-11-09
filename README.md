@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github.com/davedavis/davedavis/blob/main/logo.png" alt="Dave Davis, python, Django and Java Martech Developer in Dublin, Ireland. "/>
+  <img src="https://github.com/davedavis/davedavis/blob/main/logo.png" alt="Dave Davis, Python, Django and Java/Android Martech Developer in Dublin, Ireland. "/>
 </p>
 
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on : marketing/martech automation.
+- 🔭 I’m currently working on : Marketing/martech automation, ads ETL library. 
 - 🌱 I’m currently learning : PostGrad (HDip) in software engineering (Python and Andorid).
-- 👯 I’m looking to collaborate on : Open Source martech projects, particularly Google Ads or Adobe.io related.
+- 👯 I’m looking to collaborate on : Open Source martech projects, particularly Google Ads, Microsoft Ads or Adobe.io related.
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] or even on [![StackOverflow][3.2]][3]
 
