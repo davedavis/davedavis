@@ -1,6 +1,8 @@
+<!-- 
 <p align="center">
   <img src="https://github.com/davedavis/davedavis/blob/main/logo.png" alt="Dave Davis, Python, Django and Java/Android Martech Developer in Dublin, Ireland. "/>
 </p>
+-->
 
 
 ### Hi there 👋
