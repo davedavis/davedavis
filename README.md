@@ -8,7 +8,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on : Marketing/martech automation, ads ETL library. 
-- 🌱 I’m currently learning : PostGrad (Msc) in cloud native software design. 
+- 🌱 Just finished learning : PostGrad (Msc) in cloud native software design. 
+- 🌱 I’m currently learning : PostGrad (Msc) Data Science & Analytics. 
 - 👯 I’m looking to collaborate on : Open Source martech projects, particularly Google Ads, Microsoft Ads or Adobe.io related.
 - 👨🏼‍💻 Contributor on the official [Google-Ads-Python Client Library][4].
 
